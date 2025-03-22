@@ -51,3 +51,8 @@ void InsertionSort()
     arr[j + 1] = temp;
     }
 }
+
+void display()
+{
+    
+}
