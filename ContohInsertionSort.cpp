@@ -67,3 +67,12 @@ void display()
     }
     cout << endl;
 }
+
+int main()
+{
+    input ();
+    InsertionSort();
+    display();
+    system("Pause");
+    return 0;
+}
