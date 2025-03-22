@@ -32,3 +32,8 @@ void input()
 }
 
 void InsertionSort()
+{
+
+    int temp;
+    int j, i;
+}
